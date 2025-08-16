@@ -70,3 +70,10 @@ Null values are treated as 0 to avoid chart errors.
 🔹 Compare EV vs ICE vehicles
 
 🔹 Export insights as PDF reports
+
+
+
+##  Video Walkthrough
+Watch the 5-minute demo of the dashboard here:  
+[Interactive Investor Dashboard Demo](https://www.loom.com/share/8b271ff9e0d842bf9c9ea50287ce65fb?sid=9328b6cc-9495-42f2-9ea5-a4b1e4d6d14e)
+
